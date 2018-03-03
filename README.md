@@ -27,3 +27,10 @@ python simpleassist.py
 Now you can interact with it either with voice or by enteing the text into the GUI box hit enter to run your query
 It will show you result within few seconds.
 
+![This is how it works](https://github.com/savannahar68/SimpleAssist/blob/master/simpleassist.gif)
+
+It can do following things,<br/>
+Perform simple and complex maths (Gives result if syntax is correct check wolframalpha for syntaxes)<br/>
+Simple Query (Who is Presons Name)<br/>
+It can answer Math , science , physics, give you food nutrition details, tech world, life science etc<br/>
+[The syntax should be valid check wolfromalpha for syntax]
